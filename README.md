@@ -4,7 +4,7 @@ FTP Client (python) and FTP Server (C) to transfer text files via sockets
 This was my portfolio project for CS 372: Networks at OSU. The project specifications are listed below! I decided to implement a password
 and username system in addition to the basic specfications.
 
-##The Program:
+## The Program:
 Design and implement a simple file transfer system, i.e., create a file transfer server and a file transfer client. Write the ftserver and the ftclient programs. The final version of your programs must accomplish the following tasks:
 1. ftserver starts on Host A, and validates command-line parameters (<SERVER_PORT>).
 2. ftserver waits on <PORTNUM> for a client request.
@@ -26,7 +26,7 @@ or
 8. ftclient closes connection P (don’t leave open sockets!) and terminates.
 9. ftserver repeats from 2 (above) until terminated by a supervisor (SIGINT).
 
-##Program Requirements:
+## Program Requirements:
 • ftserver must be written in C/C++.
 • ftclient must be written in Java or Python.
 • Of course, your program must be well-modularized and well-documented.
