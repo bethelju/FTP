@@ -1,5 +1,5 @@
 # FTP
-FTP Client (python) and FTP Server (C) to transfer text files via sockets
+FTP Client (Python) and FTP Server (C) to transfer text files via sockets
 
 This was my portfolio project for CS 372: Networks at OSU. The project specifications are listed below! I decided to implement a password
 and username system in addition to the basic specfications.
