@@ -2,7 +2,7 @@
 FTP Client (Python) and FTP Server (C) to transfer text files via sockets
 
 This was my portfolio project for CS 372: Networks at OSU. The project specifications are listed below! I decided to implement a password
-and username system in addition to the basic specfications.
+and username system in addition to the basic specifications.
 
 ## The Program:
 Design and implement a simple file transfer system, i.e., create a file transfer server and a file transfer client. Write the ftserver and the ftclient programs. The final version of your programs must accomplish the following tasks:
